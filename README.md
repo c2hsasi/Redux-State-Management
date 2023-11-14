@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Note App 
 
-Currently, two official plugins are available:
+![image](https://github.com/c2hsasi/Redux-State-Management/assets/129680190/d8955063-255d-4ffa-bb09-5781e641420e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Create Note
+
+![image](https://github.com/c2hsasi/Redux-State-Management/assets/129680190/0b17f442-2312-4fea-b12e-1c2a903c9870)
+
+# Edit Note
+
+![image](https://github.com/c2hsasi/Redux-State-Management/assets/129680190/a2380d24-b47e-4da7-af60-69774418a1cf)
+
+
+# Delete Note
+
+![image](https://github.com/c2hsasi/Redux-State-Management/assets/129680190/cf5f7394-db2c-49af-b945-537cca459945)
